@@ -78,7 +78,8 @@ Women shoppers, particularly in the adult age group, drive the majority of sales
 
 
 
-This project was inspired by a guided project from \[Rishabh Mishra](https://www.youtube.com/@RishabhMishra), with additional structuring, documentation, and report writing done by me.
+This project was inspired by a guided project from \[Rishabh Mishra], with additional structuring, documentation, and report writing done by me.
+
 
 
 
