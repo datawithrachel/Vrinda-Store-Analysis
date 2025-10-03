@@ -1,8 +1,8 @@
-##### **Vrinda Store Analysis (2022)**
+# Vrinda Store Analysis (2022)
 
 
 
-📌 Project Overview
+## 📌 Project Overview
 
 
 
@@ -10,7 +10,7 @@ This project analyzes "Vrinda Store’s sales data for 2022" to identify custome
 
 
 
-📊 Business Questions Addressed
+## 📊 Business Questions Addressed
 
 
 
@@ -25,7 +25,7 @@ This project analyzes "Vrinda Store’s sales data for 2022" to identify custome
 
 
 
-📈 Key Insights
+## 📈 Key Insights
 
 
 
@@ -39,7 +39,7 @@ This project analyzes "Vrinda Store’s sales data for 2022" to identify custome
 
 
 
-📂 Project Structure
+## 📂 Project Structure
 
 
 
@@ -57,7 +57,7 @@ Vrinda-Store-Analysis/
 
 
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
 
 
@@ -66,7 +66,7 @@ Vrinda-Store-Analysis/
 
 
 
-✅ Conclusion
+## ✅ Conclusion
 
 
 
@@ -74,11 +74,12 @@ Women shoppers, particularly in the adult age group, drive the majority of sales
 
 
 
-📌 Acknowledgment
+## 📌 Acknowledgment
 
 
 
 This project was inspired by a guided project from \[Rishabh Mishra], with additional structuring, documentation, and report writing done by me.
+
 
 
 
